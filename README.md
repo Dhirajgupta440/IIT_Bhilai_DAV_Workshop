@@ -1,6 +1,7 @@
-# 🎓 IIT Bhilai Short-Term Course on Data Science and Machine Learning (2025)
+# 🎓 IIT Bhilai DAV Workshop on Data Science and Machine Learning 
 
-📅 **Duration:** 15th July 2025 – 21st July 2025  
+📅 **Workshop:** DAV (Data Analytics and Visualization) Workshop   
+📅 **Duration:** 14th July 2025 – 19th July 2025
 🏫 **Organized by:** IIT Bhilai  
 👨‍🎓 **Eligible:** 2nd Year B.Tech Students
 
