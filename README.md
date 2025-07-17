@@ -1,7 +1,7 @@
 # 🎓 IIT Bhilai DAV Workshop on Data Science and Machine Learning 
 
 📅 **Workshop:** DAV (Data Analytics and Visualization) Workshop   
-📅 **Duration:** 14th July 2025 – 19th July 2025
+📅 **Duration:** 14th July 2025 – 19th July 2025   
 🏫 **Organized by:** IIT Bhilai  
 👨‍🎓 **Eligible:** 2nd Year B.Tech Students
 
